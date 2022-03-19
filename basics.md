@@ -13,3 +13,4 @@
 * git pull origin main // will pull main_branch from origin_remote to currently navigated branch
 * git fetch origin // will fetch all branches to local
 * git log // for history
+* git merge branch_name_to_merge // will pull & merge branch to current branch 
